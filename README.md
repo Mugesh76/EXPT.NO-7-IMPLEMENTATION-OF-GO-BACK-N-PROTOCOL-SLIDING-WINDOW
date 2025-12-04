@@ -42,10 +42,12 @@ printf("\n All frames sent successfully.\n");
 }
 
 # OUTPUT
-
- 
-
+![IMG-20251121-WA0008](https://github.com/user-attachments/assets/73e5f6c8-3ced-404e-a1b8-a5fc5fadaf29)
 
 
 
-# RESULT: Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
+
+
+
+# RESULT: 
+Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
